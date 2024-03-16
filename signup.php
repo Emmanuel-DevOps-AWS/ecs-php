@@ -30,7 +30,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Sign Up</title>
 </head>
 <body>
-    <h1>Signnnnnnnnnnn Uppppppppppppppppp</h1>
+    <h1>Sign Up</h1>
     <form method="POST" action="signup.php">
         <label for="name">Name and names:</label>
         <input type="text" name="name" id="name" required><br><br>

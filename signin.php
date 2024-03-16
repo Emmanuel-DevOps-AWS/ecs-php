@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Sign In</title>
 </head>
 <body>
-    <h1>Sign Innnnnnnnnnnnnnnnnnnnnnnnnn</h1>
+    <h1>Sign In</h1>
     <form method="POST" action="signin.php">
         <label for="email">Email:</label>
         <input type="email" name="email" id="email" required><br><br>
